@@ -53,3 +53,11 @@ body {
     font-weight: bold;
     font-size: 1.1rem;
 }
+.ravi{
+	  background-color: #f8f8f8; /* White background for the book library container */
+    max-width: 800px;
+	text-align:center;
+    margin: 20px auto;
+    padding: 20px;
+}
+
